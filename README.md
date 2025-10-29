@@ -1,4 +1,4 @@
-# HR-Leave-Management-System
+ # HR-Leave-Management-System
 A web-based HR Leave Management System developed in Python using the Flet framework for handling employee leave requests, approvals, and history tracking.
 
 ## Features
@@ -18,11 +18,11 @@ A web-based HR Leave Management System developed in Python using the Flet framew
 3.Open your browser and visit:
     http://localhost:8550
 
-##Technologies Used
+## Technologies Used
 - Python 3.x
 - Flet Framework
 
-##Author
+## Author
 Naimot Yekini
- Savonia University of Applied Sciences
- IoT and Cloud Engineering Student
+- Savonia University of Applied Sciences
+- IoT and Cloud Engineering Student

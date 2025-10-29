@@ -17,6 +17,15 @@ A web-based HR Leave Management System developed in Python using the Flet framew
     python main.py
 3.Open your browser and visit:
     http://localhost:8550
+ 
+ ## Login Instructions
+
+- Temporary login for testing: You can use any email and password to log in.
+- Example login (optional):
+   ```bash
+Email: joynadu@management.com
+Password: 1234
+
 
 ## Technologies Used
 - Python 3.x
@@ -26,3 +35,4 @@ A web-based HR Leave Management System developed in Python using the Flet framew
 Naimot Yekini
 - Savonia University of Applied Sciences
 - IoT and Cloud Engineering Student
+

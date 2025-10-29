@@ -8,17 +8,6 @@ A web-based HR Leave Management System developed in Python using the Flet framew
 - Leave history display
 - Built with Python and Flet
 
-### Login Page
-![Login Page](images/login_page.png)
-
-### Home Dashboard
-![Home Page](images/home_page.png)
-
-### Leave Request Form
-![Form Page](images/form_page.png)
-
-### Leave History
-![History Page](images/history_page.png)
 
 
 ## How to Run

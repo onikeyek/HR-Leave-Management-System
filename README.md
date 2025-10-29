@@ -20,7 +20,7 @@ A web-based HR Leave Management System developed in Python using the Flet framew
  
  ## Login Instructions
 
-- Temporary login for testing: You can use any email and password to log in.
+- Temporary login for testing: You can use any email and password — it does not have to be real.
 - Example login (optional):
    ```bash
 Email: joynadu@management.com

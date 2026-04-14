@@ -61,5 +61,5 @@ Built as a practical exercise in **automating operational workflows** — the sa
 
 ## 👩‍💻 Author
 
-**Naimot Yekini** — AI/Vibe Coder | IT Student @ Savonia UAS, Finland  
+**Naimot Yekini** —IT Student @ Savonia UAS, Finland  
 [LinkedIn](https://linkedin.com/in/naimot-yekini-46216397) · [GitHub](https://github.com/onikeyek)
